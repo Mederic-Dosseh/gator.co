@@ -1,0 +1,5 @@
+	@include('frontend.head.header')
+    @include('frontend.head.menu_')
+    @include('frontend.quote.contact')
+    @include('frontend.quote.body')
+    @include('frontend.footer.footer')

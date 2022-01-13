@@ -1,0 +1,6 @@
+@include('frontend.head.header')
+@include('frontend.head.menu_')
+@include('frontend.portfolio.header_title')
+@include('frontend.portfolio.contenu')
+@include('frontend.portfolio.quote')
+@include('frontend.footer.footer')
